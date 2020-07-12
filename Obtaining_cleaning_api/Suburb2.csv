@@ -1,0 +1,315 @@
+,Suburb,ID
+0,Abbotsford,627
+1,Aberfeldie,647
+2,Airport West,757
+3,Albanvale,787
+4,Albert Park,797
+5,Albion,837
+6,Alphington,1047
+7,Altona,1057
+8,Altona Meadows,1127
+9,Altona North,1137
+10,Ardeer,1507
+11,Armadale,1587
+12,Ascot Vale,1757
+13,Ashburton,1787
+14,Ashwood,1807
+15,Aspendale,1817
+16,Aspendale Gardens,1837
+17,Attwood,1857
+18,Avondale Heights,1957
+19,Bacchus Marsh,2047
+20,Balaclava,2197
+21,Balwyn,2557
+22,Balwyn North,2597
+23,Bayswater,3337
+24,Bayswater North,3387
+25,Beaconsfield,3417
+26,Beaconsfield Upper,3457
+27,Beaumaris,3547
+28,Bellfield,3787
+29,Bentleigh,4117
+30,Bentleigh East,4127
+31,Berwick,4297
+32,Black Rock,4627
+33,Blackburn,4637
+34,Blackburn North,4657
+35,Blackburn South,4667
+36,Bonbeach,5007
+37,Boronia,5327
+38,Box Hill,5477
+39,Braybrook,5697
+40,Briar Hill,5807
+41,Brighton,5957
+42,Brighton East,5997
+43,Broadmeadows,6127
+44,Brookfield,6207
+45,Brooklyn,6227
+46,Brunswick,6377
+47,Brunswick East,6427
+48,Brunswick West,6447
+49,Bulleen,6707
+50,Bullengarook,6717
+51,Bundoora,6877
+52,Burnley,7117
+53,Burnside,7137
+54,Burnside Heights,48297
+55,Burwood,7237
+56,Burwood East,7327
+57,Cairnlea,7527
+58,Camberwell,7677
+59,Campbellfield,7717
+60,Canterbury,7907
+61,Carlton,8217
+62,Carlton North,8247
+63,Carnegie,8297
+64,Caroline Springs,8327
+65,Carrum,8497
+66,Carrum Downs,8507
+67,Caulfield,8687
+68,Caulfield East,8707
+69,Caulfield North,8747
+70,Caulfield South,8787
+71,Chadstone,8847
+72,Chelsea,8927
+73,Chelsea Heights,8937
+74,Cheltenham,8967
+75,Chirnside Park,9137
+76,Clarinda,9257
+77,Clayton,9327
+78,Clayton South,9367
+79,Clifton Hill,9437
+80,Coburg,9707
+81,Coburg North,9727
+82,Collingwood,9987
+83,Coolaroo,10107
+84,Craigieburn,10597
+85,Cranbourne,10627
+86,Cranbourne North,10657
+87,Cremorne,10737
+88,Croydon,10867
+89,Croydon Hills,10877
+90,Croydon North,10887
+91,Croydon South,10897
+92,Dallas,11087
+93,Dandenong,11157
+94,Dandenong North,11187
+95,Deepdene,11487
+96,Deer Park,11507
+97,Delahey,11547
+98,Derrimut,161087
+99,Diamond Creek,11867
+100,Diggers Rest,11897
+101,Dingley Village,11977
+102,Docklands,12117
+103,Doncaster,12177
+104,Doncaster East,12227
+105,Donvale,12247
+106,Doreen,12307
+107,Doveton,12367
+108,Eaglemont,13037
+109,East Melbourne,13127
+110,Edithvale,13457
+111,Elsternwick,13627
+112,Eltham,13677
+113,Eltham North,13687
+114,Elwood,13717
+115,Emerald,13747
+116,Endeavour Hills,13797
+117,Epping,13867
+118,Essendon,13957
+119,Essendon North,13977
+120,Essendon West,13997
+121,Fairfield,14197
+122,Fawkner,14297
+123,Ferntree Gully,14407
+124,Fitzroy,14527
+125,Fitzroy North,14567
+126,Flemington,14617
+127,Footscray,14717
+128,Forest Hill,14827
+129,Frankston,14947
+130,Frankston North,15007
+131,Frankston South,15027
+132,Gardenvale,15237
+133,Gisborne,15737
+134,Gladstone Park,15787
+135,Glen Huntly,15877
+136,Glen Iris,15907
+137,Glen Waverley,15957
+138,Glenroy,16477
+139,Gowanbrae,16877
+140,Greensborough,17297
+141,Greenvale,17317
+142,Hadfield,17537
+143,Hallam,17567
+144,Hampton,17737
+145,Hampton East,17757
+146,Hampton Park,17807
+147,Hawthorn,18087
+148,Hawthorn East,18117
+149,Healesville,18247
+150,Heathmont,18347
+151,Heidelberg,18387
+152,Heidelberg Heights,18397
+153,Heidelberg West,18427
+154,Highett,18717
+155,Hillside,18837
+156,Hoppers Crossing,19067
+157,Hughesdale,19257
+158,Huntingdale,19317
+159,Hurstbridge,19387
+160,Ivanhoe,19767
+161,Ivanhoe East,19787
+162,Jacana,19797
+163,Kealba,20817
+164,Keilor,20857
+165,Keilor Downs,20887
+166,Keilor East,20897
+167,Keilor Lodge,20917
+168,Keilor Park,20957
+169,Kensington,21037
+170,Kew,21137
+171,Kew East,21167
+172,Keysborough,21197
+173,Kilsyth,21497
+174,Kings Park,21657
+175,Kingsbury,21677
+176,Kingsville,21717
+177,Knoxfield,21867
+178,Kooyong,22117
+179,Kurunjang,22327
+180,Lalor,22937
+181,Langwarrin,23137
+182,Lower Plenty,24457
+183,Maidstone,24877
+184,Malvern,25047
+185,Malvern East,25077
+186,Maribyrnong,25307
+187,McKinnon,25657
+188,Meadow Heights,25717
+189,Melbourne,25807
+190,Melton,25957
+191,Melton South,25997
+192,Melton West,26007
+193,Mentone,26087
+194,Mernda,26237
+195,Middle Park,26507
+196,Mill Park,26637
+197,Mitcham,26977
+198,Monbulk,27267
+199,Mont Albert,27307
+200,Montmorency,27387
+201,Montrose,27397
+202,Moonee Ponds,27497
+203,Moorabbin,27577
+204,Mooroolbark,27707
+205,Mordialloc,27817
+206,Mount Evelyn,28237
+207,Mount Waverley,28457
+208,Mulgrave,29167
+209,Murrumbeena,29437
+210,Narre Warren,30017
+211,New Gisborne,30407
+212,Newport,30557
+213,Niddrie,30687
+214,Noble Park,30827
+215,North Melbourne,31037
+216,North Warrandyte,31077
+217,Northcote,31107
+218,Notting Hill,31177
+219,Nunawading,31307
+220,Oak Park,31507
+221,Oakleigh,31547
+222,Oakleigh East,31567
+223,Oakleigh South,31597
+224,Officer,31647
+225,Ormond,31767
+226,Pakenham,31947
+227,Parkdale,32107
+228,Parkville,32107
+229,Pascoe Vale,32147
+230,Plumpton,32897
+231,Point Cook,32927
+232,Port Melbourne,33267
+233,Prahran,33397
+234,Preston,33507
+235,Princes Hill,33537
+236,Reservoir,34167
+237,Richmond,34297
+238,Riddells Creek,34347
+239,Ringwood,34397
+240,Ringwood East,34437
+241,Ringwood North,34477
+242,Ripponlea,34527
+243,Rockbank,34697
+244,Rosanna,34817
+245,Rowville,35057
+246,Roxburgh Park,35077
+247,Sandhurst,35597
+248,Sandringham,35637
+249,Scoresby,35767
+250,Seabrook,35847
+251,Seaford,35867
+252,Seaholme,35887
+253,Seddon,35997
+254,Silvan,36387
+255,Skye,36517
+256,South Kingsville,36757
+257,South Melbourne,36797
+258,South Morang,36827
+259,South Yarra,36877
+260,Southbank,36897
+261,Spotswood,36987
+262,Springvale,37117
+263,Springvale South,37157
+264,St Albans,37177
+265,St Helena,37357
+266,St Kilda,37407
+267,Strathmore,38037
+268,Strathmore Heights,38047
+269,Sunbury,38197
+270,Sunshine,38277
+271,Sunshine North,38287
+272,Sunshine West,38297
+273,Surrey Hills,38357
+274,Sydenham,38547
+275,Tarneit,39087
+276,Taylors Hill,39447
+277,Taylors Lakes,39487
+278,Templestowe,39607
+279,Templestowe Lower,39637
+280,The Basin,39797
+281,Thomastown,39897
+282,Thornbury,39937
+283,Toorak,40457
+284,Travancore,40727
+285,Truganina,40897
+286,Tullamarine,40947
+287,Upwey,41407
+288,Vermont,41507
+289,Vermont South,41517
+290,Viewbank,41617
+291,Wallan,41947
+292,Wantirna,42327
+293,Wantirna South,42337
+294,Warrandyte,42597
+295,Waterways,42857
+296,Watsonia,42887
+297,Watsonia North,42897
+298,Werribee,43317
+299,West Footscray,43407
+300,West Melbourne,43457
+301,Westmeadows,43577
+302,Wheelers Hill,43647
+303,Whittlesea,43777
+304,Williams Landing,48227
+305,Williamstown,43967
+306,Williamstown North,43977
+307,Windsor,44117
+308,Wollert,44357
+309,Wonga Park,44437
+310,Wyndham Vale,45307
+311,Yallambie,45427
+312,Yarra Glen,45657
+313,Yarraville,45777
